@@ -1,0 +1,6 @@
+[package]
+name = "json-serialize"
+version = "0.1.0"
+authors = ["Tosuke <tasukeprg@gmail.com>"]
+
+[dependencies]
